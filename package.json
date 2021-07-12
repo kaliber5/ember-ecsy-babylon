@@ -34,7 +34,7 @@
     "@glimmer/tracking": "^1.0.4",
     "ecsy": "^0.4.2",
     "ecsy-babylon": "^0.7.0",
-    "ember-auto-import": "^1.11.3",
+    "ember-auto-import": "^2.0.2",
     "ember-cli-babel": "^7.26.6",
     "ember-cli-htmlbars": "^5.6.5",
     "ember-cli-typescript": "^4.2.1",
